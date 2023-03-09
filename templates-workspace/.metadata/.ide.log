@@ -1916,3 +1916,6 @@
 2023-03-09 20:37:38,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
 2023-03-09 20:37:38,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
 2023-03-09 20:37:38,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 20:40:13,165 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 20:40:13,181 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 20:40:13,181 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
