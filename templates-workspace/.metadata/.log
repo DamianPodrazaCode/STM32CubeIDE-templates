@@ -1037,3 +1037,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\__GitHub\STM3
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-03-09 21:49:38.241
 !MESSAGE Indexed 'discoF407' (19 sources, 81 headers) in 0.957 sec: 4,376 declarations; 17,620 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 21:55:27.275
+!MESSAGE Indexed 'discoF429' (19 sources, 81 headers) in 0.942 sec: 4,571 declarations; 19,323 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0084%)
