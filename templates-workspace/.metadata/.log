@@ -1040,3 +1040,21 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\__GitHub\STM3
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-03-09 21:55:27.275
 !MESSAGE Indexed 'discoF429' (19 sources, 81 headers) in 0.942 sec: 4,571 declarations; 19,323 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0084%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 22:00:16.711
+!MESSAGE Indexed 'discoF746' (20 sources, 82 headers) in 0.88 sec: 5,489 declarations; 30,364 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0056%)
+!SESSION 2023-03-09 22:07:49.667 -----------------------------------------------
+eclipse.buildId=Version 1.12.0
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-03-09 22:07:53.331
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-03-09 22:07:53.331
+!MESSAGE Log4j2 initialized with config file D:\__GitHub\STM32CubeIDE-templates\templates-workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-09 22:07:58.304
+!MESSAGE Started RMI Server, listening on port 41337
