@@ -1,0 +1,10 @@
+20:37:38 **** Incremental Build of configuration Debug for project nucleoF746 ****
+make -j12 all 
+arm-none-eabi-size   nucleoF746.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5856	     20	   1572	   7448	   1d18	nucleoF746.elf
+Finished building: default.size.stdout
+ 
+
+20:37:38 Build Finished. 0 errors, 0 warnings. (took 157ms)
+
