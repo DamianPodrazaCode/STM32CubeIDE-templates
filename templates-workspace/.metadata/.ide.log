@@ -1919,3 +1919,14 @@
 2023-03-09 20:40:13,165 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
 2023-03-09 20:40:13,181 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
 2023-03-09 20:40:13,181 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 21:33:06,062 [INFO] Activator:176 - 
+
+
+2023-03-09 21:33:06,078 [INFO] Activator:177 - !SESSION log4j initialized
+2023-03-09 21:33:08,369 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-03-09 21:33:08,604 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 21:33:08,604 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 21:33:08,604 [ERROR] ConfigurationRetriever:142 - IOException on connection: artifactory.st.com
+2023-03-09 21:33:27,703 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-03-09 21:33:27,703 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-03-09 21:33:27,703 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
