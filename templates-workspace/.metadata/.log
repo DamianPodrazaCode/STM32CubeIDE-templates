@@ -1058,3 +1058,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-09 22:07:58.304
 !MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 22:13:26.444
+!MESSAGE Indexed 'discoF769' (20 sources, 82 headers) in 2.21 sec: 5,727 declarations; 31,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0054%)

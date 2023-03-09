@@ -1,0 +1,10 @@
+22:17:00 **** Incremental Build of configuration Debug for project discoF769 ****
+make -j12 all 
+arm-none-eabi-size   discoF769.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5744	     20	   1572	   7336	   1ca8	discoF769.elf
+Finished building: default.size.stdout
+ 
+
+22:17:00 Build Finished. 0 errors, 0 warnings. (took 157ms)
+
