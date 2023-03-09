@@ -1,0 +1,18 @@
+!SESSION 2023-03-09 19:50:18.878 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\__GitHub\STM32CubeIDE-templates\templates-workspace
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-03-09 19:50:22.467
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-03-09 19:50:22.467
+!MESSAGE Log4j2 initialized with config file D:\__GitHub\STM32CubeIDE-templates\templates-workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-09 19:50:25.322
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 19:52:35.543
+!MESSAGE Indexed 'nucleoF207' (18 sources, 80 headers) in 1.98 sec: 4,085 declarations; 15,411 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.01%)
