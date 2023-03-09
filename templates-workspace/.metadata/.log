@@ -1028,3 +1028,9 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\__GitHub\STM3
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-09 21:33:08.636
 !MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 21:43:51.197
+!MESSAGE Indexed 'discoF401' (19 sources, 81 headers) in 1.77 sec: 4,233 declarations; 17,737 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-03-09 21:45:05.399
+!MESSAGE Indexed 'discoF401' (19 sources, 81 headers) in 0.973 sec: 4,233 declarations; 17,737 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)

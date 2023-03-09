@@ -36,6 +36,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI3_Tx_SPI4_Rx_IT\ Debug/ac
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI3_Tx_SPI4_Rx_IT\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746ZGT6\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746ZGT6\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:discoF401\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:discoF401\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleoF207\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleoF207\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleoF411\ Debug/activeLaunchMode=run
