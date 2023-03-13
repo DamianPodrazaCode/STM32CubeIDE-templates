@@ -255,3 +255,18 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-03-09 20:42:20.989
 !MESSAGE Indexed 'nucleoH745_CM7' (24 sources, 85 headers) in 1.44 sec: 7,838 declarations; 56,989 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0031%)
+!SESSION 2023-03-13 20:17:24.852 -----------------------------------------------
+eclipse.buildId=Version 1.12.0
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\__GitHub\STM32CubeIDE-templates\templates-workspace-nucleoH745
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-03-13 20:17:28.588
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-03-13 20:17:28.588
+!MESSAGE Log4j2 initialized with config file D:\__GitHub\STM32CubeIDE-templates\templates-workspace-nucleoH745\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-13 20:17:31.271
+!MESSAGE Started RMI Server, listening on port 41337

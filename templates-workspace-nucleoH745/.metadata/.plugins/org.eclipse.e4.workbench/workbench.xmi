@@ -83,7 +83,7 @@
                 <tags>categoryTag:General</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_h_Cvqr6xEe2stLanzKbyWg" containerData="8292" selectedElement="_h_Cvsb6xEe2stLanzKbyWg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_h_Cvqr6xEe2stLanzKbyWg" containerData="8292" selectedElement="_h_Cvq76xEe2stLanzKbyWg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_h_Cvq76xEe2stLanzKbyWg" containerData="7500" selectedElement="_h_CvrL6xEe2stLanzKbyWg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_h_CvrL6xEe2stLanzKbyWg" elementId="org.eclipse.ui.editorss" containerData="7596" ref="_h_Cxxb6xEe2stLanzKbyWg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_h_Cvrb6xEe2stLanzKbyWg" elementId="topRight" containerData="2404" selectedElement="_h_Cvrr6xEe2stLanzKbyWg">
@@ -160,7 +160,7 @@
           <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
           <tags>persp.newWizSC:com.st.stm32cube.common.projectcreation.ui.stm32projectwizard</tags>
           <tags>persp.newWizSC:com.st.stm32cube.common.projectcreation.ui.stm32projectfromiocwizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_h_Cvvb6xEe2stLanzKbyWg" selectedElement="_h_CvwL6xEe2stLanzKbyWg" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_h_Cvvb6xEe2stLanzKbyWg" selectedElement="_h_Cvvr6xEe2stLanzKbyWg" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_h_Cvvr6xEe2stLanzKbyWg" elementId="left" containerData="1413" selectedElement="_h_Cvv76xEe2stLanzKbyWg">
               <children xsi:type="advanced:Placeholder" xmi:id="_h_Cvv76xEe2stLanzKbyWg" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_h_CxyL6xEe2stLanzKbyWg" closeable="true">
                 <tags>View</tags>
@@ -737,7 +737,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_h_Cznr6xEe2stLanzKbyWg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_O5Add76yEe2A-7ndEo9iwA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_h_C6rr6xEe2stLanzKbyWg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_sayQUMHTEe2SU8dLmMOaow" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_h_C6rr6xEe2stLanzKbyWg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_h_Czs76xEe2stLanzKbyWg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -768,7 +768,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_h_C0B76xEe2stLanzKbyWg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_O5Jnab6yEe2A-7ndEo9iwA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_h_C6U76xEe2stLanzKbyWg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_sayQXcHTEe2SU8dLmMOaow" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_h_C6U76xEe2stLanzKbyWg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_h_C0FL6xEe2stLanzKbyWg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
